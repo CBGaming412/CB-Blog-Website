@@ -76,7 +76,7 @@ If you want to clone this project to run locally:
 
 ## 📸 Screenshots
 
-![Screenshot 1 Placeholder](screenshots/Screenshot 2026-03-12 165139.png)
+!screenshots/Screenshot 2026-03-12 165139.png
 *Description of screenshot 1*
 
 ![Screenshot 2 Placeholder](path/to/your/screenshot2.png)
