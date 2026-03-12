@@ -73,3 +73,12 @@ If you want to clone this project to run locally:
 3. Open `http://localhost:8080` in your browser.
 
 *(Note: The Firebase configuration in `js/firebase-config.js` is already wired up to the production Firebase project).*
+
+## 📸 Screenshots
+
+![Screenshot 1 Placeholder](path/to/your/screenshot1.png)
+*Description of screenshot 1*
+
+![Screenshot 2 Placeholder](path/to/your/screenshot2.png)
+*Description of screenshot 2*
+
