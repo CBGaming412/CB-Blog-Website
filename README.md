@@ -77,9 +77,6 @@ If you want to clone this project to run locally:
 ## 📸 Screenshots
 
 <img width="1363" height="673" alt="Screenshot 2026-03-12 165139" src="https://github.com/user-attachments/assets/eb9dddc5-e8dc-4839-bb24-1aa19577637d" />
-*Description of screenshot 1*
 
-![Screenshot 2 Placeholder](path/to/your/screenshot2.png)
-*Description of screenshot 2*
-
+<img width="1364" height="632" alt="Screenshot 2026-03-12 165219" src="https://github.com/user-attachments/assets/0d709560-72bf-4140-a810-25caedab03e4" />
 
