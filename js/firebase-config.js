@@ -13,7 +13,7 @@
    ══════════════════════════════════════════════ */
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBKWskDc5XDVcTgSlfVoi6Me6CqCcVFgHE",
+    apiKey: "(hidden)",
     authDomain: "carl1-byte2.firebaseapp.com",
     projectId: "carl1-byte2",
     storageBucket: "carl1-byte2.firebasestorage.app",
