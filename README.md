@@ -82,4 +82,4 @@ If you want to clone this project to run locally:
 
 ## 🌐 Website Link
 
-(carl1-byte2.web.app)
+https://carl1-byte2.web.app/#/
